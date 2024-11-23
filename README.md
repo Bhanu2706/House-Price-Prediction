@@ -1,2 +1,2 @@
 # House-Price-Prediction
-A machine learning project to predict house prices using the Banglore Home Prices dataset. Built with Python, Sklearn, Flask, HTML, CSS, and JavaScript.
+A machine learning web application that predicts house prices based on various features such as location, size, and availability. This project uses Python, Scikit-learn, Flask, HTML, CSS, and JavaScript, and is based on the Banglore Home Prices dataset.
